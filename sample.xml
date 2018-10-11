@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2">
+  <file original="filename.txt" source-language="en" target-language="fr">
+    <header />
+    <body>
+      <trans-unit id="red">
+        <source>Red</source>
+        <target>Rouge</source>
+        <note>Color red</note>
+      </trans-unit>
+      <trans-unit id="blue">
+        <source>Blue</source>
+        <target>Bleu</target>
+        <note>Color blue</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
